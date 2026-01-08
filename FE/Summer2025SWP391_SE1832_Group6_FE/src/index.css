@@ -1,0 +1,11 @@
+@import "tailwindcss" important;
+
+.ant-btn-primary {
+    background-color: #00a63e !important;
+    border-color: #00a63e !important;
+  }
+  .ant-btn-primary:hover, 
+  .ant-btn-primary:focus {
+    background-color: #00a63e !important;
+    border-color: #00a63e !important;
+  }

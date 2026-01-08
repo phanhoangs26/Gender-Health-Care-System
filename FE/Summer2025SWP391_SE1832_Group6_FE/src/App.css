@@ -1,0 +1,25 @@
+@import "tailwindcss" important;
+
+body {
+    background-color: #f9fafb;
+}
+
+.ant-btn-primary {
+    background-color: #52c41a !important;
+    border-color: #52c41a !important;
+  }
+  .ant-btn-primary:hover, 
+  .ant-btn-primary:focus {
+    background-color: #73d13d !important;
+    border-color: #73d13d !important;
+  }
+
+.ant-input-search {
+  background-color: #52c41a;
+  border-color: #52c41a;
+  }
+  .ant-input-search:hover, 
+  .ant-input-search:focus {
+    background-color: #73d13d !important;
+    border-color: #73d13d !important;
+  }
